@@ -9,7 +9,7 @@ From zero repository for doing python devops work
 
 ### Colab Notebook
 
-* This is an example of how to use [colab] ( 
+* This is an example of how to use [colab](https://github.com/bloodgroup-cplusplus/python-for-devops-august-2022/blob/main/getting_started_python.ipynb) 
 ### Github Codespaces
 ### AWS CloudShell
 ### AWS Cloud9
